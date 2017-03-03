@@ -6,6 +6,9 @@ permalink: /teaching/
 
 ##Instructor of Record
 
+###University of Rochester
+Introduction to Philosophy (Summer 2016)
+
 ###Western Michigan University
 Biomedical Ethics (Summer & Fall 2012, Spring 2013)
 
