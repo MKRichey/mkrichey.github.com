@@ -4,6 +4,12 @@ title: Home
 permalink: /contact/
 ---
 
+  {% if include.markdown %}
+    {{ include.item.content | markdownify }}
+  {% else %}  
+    {{ include.item.content }}
+  {% endif %}
+
 ###AREAS OF INTEREST
 
 Metaethics, Ethics, Metaphysics, Political Philosophy
